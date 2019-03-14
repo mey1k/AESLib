@@ -25,4 +25,4 @@ NONE
 ## Acknowledgments
 
 * Do you want to use AES?
-* What is [FTP](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)?
+* What is [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)?
